@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/LubnaAbidah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-
-<a href="https://github.com/LubnaAbidah/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <!--
