@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/LubnaAbidah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah" />
+<a href="https://github.com/LubnaAbida/LubnaAbidah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/LubnaAbidah/LubnaAbidah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubnaAbidah&theme=dark&show_icons=true" />
 </a>
+
 
 <!--
 **LubnaAbidah/LubnaAbidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
