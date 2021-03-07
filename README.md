@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/LubnaAbida/LubnaAbidah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LubnaAbidah&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/LubnaAbidah/LubnaAbidah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubnaAbidah&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubnaAbidah&theme=gotham&show_icons=true" />
 </a>
 
 
