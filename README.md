@@ -1,7 +1,9 @@
 ### Hi there 👋
+
 <a href="https://github.com/LubnaAbidah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&show_icons=true&theme=radical" />
 </a>
+
 <a href="https://github.com/LubnaAbidah/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LubnaAbidah&repo=convoychat" />
 </a>
