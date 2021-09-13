@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , my name is Lubna Abidah👋
 
 <a href="https://github.com/LubnaAbida/LubnaAbidah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LubnaAbidah&theme=gotham&show_icons=true" />
